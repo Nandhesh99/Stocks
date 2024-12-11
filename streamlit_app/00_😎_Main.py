@@ -6,14 +6,14 @@ st.set_page_config(
 )
 
 st.markdown(
-    """# 📈 **Stockastic**
+    """# 📈 **Stocky**
 ### **Predicting Stocks with ML**
 
-**Stockastic is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
+**Stocky is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
 
 ## 🏗️ **How It's Built**
 
-Stockastic is built with these core frameworks and modules:
+Stocky is built with these core frameworks and modules:
 
 - **Streamlit** - To create the web app UI and interactivity 
 - **YFinance** - To fetch financial data from Yahoo Finance API
